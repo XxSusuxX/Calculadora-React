@@ -1,68 +1,47 @@
-# Desafio - Frontend Mentor
-
-![Design preview for the Intro section with dropdown navigation coding challenge](./design/desktop-preview.jpg)
-
 ## Bem-vindo! 👋
 
-Obrigado por olhar este desafio de codificação de front-end.
+Obrigado por visitar este projeto.
 
-[Frontend Mentor](https://www.frontendmentor.io) ajuda você a melhorar suas habilidades de codificação criando projetos realistas.
+**Para fazer este projeto, precisei ter conhecimentos de React, Expo, JavaScript e npm**
 
-**Para fazer este desafio, foi necessário ter conhecimentos de HTML, CSS e JavaScript..**
+## O Projeto
 
-## O Desafio
+Meu projeto foi construir uma calculadora usando React, com adaptação para aplicativo mobile e para computadores na web.
 
-Meu desafio foi construir esta seção de introdução com navegação suspensa e deixá-la o mais próximo do design da imagem acima.
+Eu usei as ferramentas Android Studio para emular meu dispositivo móvel, npm para poder instalar minha dependências, React-native e React.js.
 
-Eu pude usar qualquer ferramenta que desejasse para concluir o desafio.
+Como uma calculadora deve ser capazes de:
 
-Meus usuários devem ser capazes de:
+- Visualizar o diplay com os números digitados
+- Visualizar o layout ideal para os botões, dependendo do tamanho da tela dos dispositivo
+- Resultados dos calculos retornados corretamente
 
-- Visualizar os menus suspensos relevantes no computador e no celular ao interagir com os links de navegação
-- Visualizar o layout ideal para o conteúdo, dependendo do tamanho da tela do dispositivo
-- Veja os estados de foco para todos os elementos interativos na página
+## Os arquivos
 
-## Onde encontrar os arquivos
+Para desenvolver a calculadora web e para app usei `React.js`.
 
-Minha tarefa é construir o projeto para os designs dentro da pasta `/design`. Você encontrará uma versão móvel e uma versão para desktop do design.
+A pasta `/Calculadora` armazena toda a parte do `React.js`, dentro da pasta você encontrará os arquivos, `App.js` , `buttons.js` ,`display.js`.
 
-Os designs estão no formato estático JPG. O uso de JPGs significa que você precisará usar seu melhor julgamento para estilos como `font-size`, `padding` e `margin `.
-
-Você encontrará todas as imagens e ícones necessários na pasta `/images`. Os recursos já estão otimizados.
-
-Há também um `style-guide.md` arquivo contendo as informações necessárias, como paleta de cores e fontes.
-
-O arquivo principal `index.html` está com todo o html existente na página, e `styles.css` com todo o css da página, por último o `script.js` com o JavaScript.
+O arquivo principal `App.js` está importando o `display.js` e o `buttons.js`. No `display.js` será exibido os valores do `buttons.js`,
 
 ## O que eu aprendi
 
-Neste projeto coloquei meu aprendizado com html, css e JavaScript em prática, o Media Query (adaptação da tela) dentro do css foi a parte mais trabalhosa, nunca tive contato com esse tipo de estilização.
+Neste projeto coloquei meu aprendizado com JavaScript em prática e um pouco de css e html, instalando as aplicações com npm, consegui ter noções boas do prompt de comando.
 
-As condição em JavaScritps foi sem dúvidas a parte que eu estive mais familiarizado, veje um exemplo a baixo:
+A calculadora em React requer a manipulação de diversos eventos, como o clique em botões, inserção de valores, etc. Aprendi a trabalhar com eventos em React que é essencial para criar aplicações que respondam às interações do usuário.
 
-btnMenu.addEventListener("click", () => {
-if (menu.style.display == "flex") {
-menu.style.display = "none"
-} else {
-menu.style.display = "flex"
-menuClose.style.display = "block"
-}
-})
-
-O `btnMenu` vai ser acionado com um click, e se menu estiver visível (`diplay: flex;`) ele se tornara invisível (`display; none;`), com isso o Menu se abre e fecha.
-
-Preciso melhorar minhas aplicações em css, mas como um dos primeiros projetos estou feliz com esse resultado.
+Componentização, Uma calculadora em React pode ser dividida em vários componentes, como botões, display, operações matemáticas, etc. Aprender a dividir a aplicação em componentes pode torná-la mais modular e fácil de manter.
 
 # Resultado final
 
-## Home page do Desktop
+## Calculadora Web
 
-![exemplo1](./design/final/home-page-desktop.png)
+![calculadora-web](./Calculadora-web/images/final/calculadora-web.png)
 
-## Home page mobile
+## Aplicativo Mobile
 
-![exemplo2](./design/final/home-page-mobile1.png)
-![exemplo3](./design/final/home-page-mobile2.png)
+![exemplo1](./Calculadora-app/images/final/calculadora-app.png)
+![exemplo2](./Calculadora-app/images/final/app-exemplo1.png)
 
 ## Autor
 
