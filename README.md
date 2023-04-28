@@ -36,12 +36,12 @@ Componentização, Uma calculadora em React pode ser dividida em vários compone
 
 ## Calculadora Web
 
-![calculadora-web](./Calculadora-web/images/final/calculadora-web.png)
+![calculadora-web](./Calculadora/images/final/calculadora-web.png)
 
 ## Aplicativo Mobile
 
-![exemplo1](./Calculadora-app/images/final/calculadora-app.png)
-![exemplo2](./Calculadora-app/images/final/app-exemplo1.png)
+![exemplo1](./Calculadora/images/final/calculadora-app.png)
+![exemplo2](./Calculadora/images/final/app-exemplo1.png)
 
 ## Autor
 
