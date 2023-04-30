@@ -6,7 +6,7 @@ Clone o repositório do GitHub para o seu computador local:
 
 `git clone https://github.com/nome_do_repositorio.git`
 
-Navegue até uma pasta para deixar o projeto:
+Navegue até uma pasta onde deseja deixar o projeto:
 
 `cd nome_da_pasta`
 
