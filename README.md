@@ -22,7 +22,7 @@ Para desenvolver a calculadora web e para app usei `React.js`.
 
 A pasta `/Calculadora` armazena toda a parte do `React.js`, dentro da pasta você encontrará os arquivos, `App.js` , `buttons.js` ,`display.js`.
 
-O arquivo principal `App.js` está importando o `display.js` e o `buttons.js`. No `display.js` será exibido os valores do `buttons.js`,
+O arquivo principal `App.js` está importando o `display.js` e o `buttons.js`. No `display.js` será exibido os valores digitados com `buttons.js`.
 
 ## O que eu aprendi
 
