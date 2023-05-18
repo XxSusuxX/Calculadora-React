@@ -2,11 +2,11 @@
 
 Obrigado por visitar este projeto.
 
-**Para fazer este projeto, precisei ter conhecimentos de React, Expo, JavaScript e npm**
+**Para fazer este projeto, precisei ter conhecimentos de React-Native, Expo, JavaScript e npm**
 
 ## O Projeto
 
-Meu projeto foi construir uma calculadora usando React, com adaptação para aplicativo mobile e para computadores na web.
+Meu projeto foi construir uma calculadora usando React-Native, com adaptação para aplicativo mobile e para computadores na web.
 
 Eu usei as ferramentas Android Studio para emular meu dispositivo móvel, npm para poder instalar minha dependências, React-native e React.js.
 
@@ -18,9 +18,9 @@ Como uma calculadora deve ser capazes de:
 
 ## Os arquivos
 
-Para desenvolver a calculadora web e para app usei `React.js`.
+Para desenvolver a calculadora web e para app usei `React-Native`.
 
-A pasta `/Calculadora` armazena toda a parte do `React.js`, dentro da pasta você encontrará os arquivos, `App.js` , `buttons.js` ,`display.js`.
+A pasta `/Calculadora` armazena toda a parte do `React-Native`, dentro da pasta você encontrará os arquivos, `App.js` , `buttons.js` ,`display.js`.
 
 O arquivo principal `App.js` está importando o `display.js` e o `buttons.js`. No `display.js` será exibido os valores digitados com `buttons.js`.
 
