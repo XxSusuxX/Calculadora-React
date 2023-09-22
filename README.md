@@ -2,7 +2,7 @@
 
 Obrigado por visitar este projeto.
 
-**Para fazer este projeto, precisei ter conhecimentos de React-Native, Expo, JavaScript e npm**
+**Para fazer este projeto, precisei ter conhecimentos de React-Native, Android Studio, Expo, JavaScript e npm**
 
 ## O Projeto
 
