@@ -6,7 +6,7 @@ Obrigado por visitar este projeto.
 
 ## O Projeto
 
-Meu projeto foi construir uma calculadora usando React-Native, com adaptação para aplicativo mobile e para computadores na web.
+Meu projeto foi construir uma calculadora usando React-Native.
 
 Eu usei as ferramentas Android Studio para emular meu dispositivo móvel, npm para poder instalar minha dependências, React-native e React.js.
 
